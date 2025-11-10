@@ -13,8 +13,8 @@ layout: home
 <section id="about">
   <h2>About</h2>
   <div class="about-content">
-    <p>Hi, I'm Matt! I'm a recent graduate in Statistics & Data Science and Economics with honors from UC Santa Barbara. </p>
-    <p>I'm currently working in data processing at NFP, an Aon Company, where I build datasets and support data-driven analysis to help inform client decisions.</p>
+    <p>Hi there, I'm Matt! I'm a recent honors grad in Statistics & Data Science and Economics from UC Santa Barbara.</p>
+    <p>I'm currently working in data processing at NFP, an Aon Company, where I build datasets and support data-driven analysis to help inform business decisions.</p>
     <p>When I'm not analyzing data, you'll find me exploring the mountains!</p>
   </div>
 </section>
