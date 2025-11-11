@@ -176,7 +176,7 @@ layout: home
     <div class="photo-item">
       <img src="{{ '/assets/images/photo4.JPG' | relative_url }}" alt="Bachelor Elephant">
         <div class="photo-overlay">
-          <span class="photo-title">Perusing the Prairie</span>
+          <span class="photo-title">On the Savanna</span>
         </div>
     </div>
     <div class="photo-item">
