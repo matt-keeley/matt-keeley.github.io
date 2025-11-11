@@ -282,7 +282,7 @@ section h2::after {
 
 /* Non-linked project tile */
 .tile-container > .tile {
-  cursor: default; /* Remove pointer cursor for tiles without links */
+  cursor: default !important;
 }
 
 /* Keep pointer cursor for linked tiles */
