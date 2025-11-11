@@ -278,14 +278,9 @@ section h2::after {
   position: relative;
   overflow: hidden;
   border: 1px solid rgba(255, 255, 255, 0.1);
+  cursor: default;
 }
 
-/* Non-linked project tile */
-.tile-container > .tile {
-  cursor: default !important;
-}
-
-/* Keep pointer cursor for linked tiles */
 .tile-link .tile {
   cursor: pointer;
 }
