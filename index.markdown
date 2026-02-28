@@ -13,9 +13,9 @@ layout: home
 <section id="about">
   <h2>About</h2>
   <div class="about-content">
-    <p>Hi there, I'm Matt! I recently graduated with honors from UC Santa Barbara, double-majoring in Economics and Statistics & Data Science.<br>
-    I'm currently working in data processing at NFP, an Aon Company, building datasets and supporting data-driven analysis to help inform business decisions.<br>
-    When I'm not analyzing data, you'll find me exploring the mountains!</p>
+    <p>Hi there, I'm Matt! I recently graduated with honors from UC Santa Barbara, double-majoring in Economics and Statistics & Data Science.</p>
+    <p>I'm passionate about leveraging data to solve complex, real-world problems — whether it's forecasting economic trends, building machine learning pipelines, or designing automated systems. If you have an opportunity, feel free to reach out!</p>
+    <p>When I'm not analyzing data, you'll find me exploring the mountains!</p>
   </div>
 </section>
 
