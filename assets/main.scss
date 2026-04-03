@@ -252,7 +252,7 @@ section h2::after {
 /* Projects Section */
 .tile-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2.5rem;
   margin-top: 2rem;
 }
@@ -581,6 +581,16 @@ section h2::after {
   transform: scale(1.05);
 }
 
+ .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+@media (min-width: 1400px) {
+  .photo-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
 /* Hamburger menu - hidden on desktop */
 .mobile-menu-toggle {
   display: none;
@@ -633,6 +643,16 @@ section h2::after {
 .menu-overlay.active {
   display: block;
   pointer-events: auto; /* Allow clicks to close menu */
+}
+
+@media (max-width: 768px) and (orientation: landscape) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  
+  .tile-container {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
 }
 
 @media (max-width: 768px) {

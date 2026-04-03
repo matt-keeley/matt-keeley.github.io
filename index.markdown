@@ -206,7 +206,79 @@ layout: home
     <div class="photo-item">
       <img src="{{ '/assets/images/photo8.JPG' | relative_url }}" alt="Baby Hyena">
         <div class="photo-overlay">
-          <span class="photo-title">Happy Hyena</span>
+          <span class="photo-title">Curious Hyena</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo9.JPG' | relative_url }}" alt="Photo 9">
+        <div class="photo-overlay">
+          <span class="photo-title">Misty Water</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo10.JPG' | relative_url }}" alt="Photo 10">
+        <div class="photo-overlay">
+          <span class="photo-title">Cruising</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo11.JPG' | relative_url }}" alt="Photo 11">
+        <div class="photo-overlay">
+          <span class="photo-title">Balloons</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo12.JPG' | relative_url }}" alt="Photo 12">
+        <div class="photo-overlay">
+          <span class="photo-title">Metal Statues</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo13.JPG' | relative_url }}" alt="Photo 13">
+        <div class="photo-overlay">
+          <span class="photo-title">Lone Coyote</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo14.JPG' | relative_url }}" alt="Photo 14">
+        <div class="photo-overlay">
+          <span class="photo-title">Changing Colors</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo15.JPG' | relative_url }}" alt="Photo 15">
+        <div class="photo-overlay">
+          <span class="photo-title">Stars on the Mountain</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo16.JPG' | relative_url }}" alt="Photo 16">
+        <div class="photo-overlay">
+          <span class="photo-title">Red Rocks</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo17.JPG' | relative_url }}" alt="Photo 17">
+        <div class="photo-overlay">
+          <span class="photo-title">Sunset</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo18.JPG' | relative_url }}" alt="Photo 18">
+        <div class="photo-overlay">
+          <span class="photo-title">Granite Walls</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo19.JPG' | relative_url }}" alt="Photo 19">
+        <div class="photo-overlay">
+          <span class="photo-title">First Quarter</span>
+        </div>
+    </div>
+    <div class="photo-item">
+      <img src="{{ '/assets/images/photo20.JPG' | relative_url }}" alt="Photo 20">
+        <div class="photo-overlay">
+          <span class="photo-title">Hiking in the Forest</span>
         </div>
     </div>
   </div>
